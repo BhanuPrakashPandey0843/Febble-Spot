@@ -1,0 +1,4 @@
+/* Extra optional styling for smoother flip */
+.flipped {
+  transform: rotateY(180deg);
+}
